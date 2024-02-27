@@ -27,7 +27,9 @@ Contact
 If you have any questions or feedback, feel free to reach out:
 
 Email: contact@greenden.com
+
 Twitter: @greenden
+
 Website: https://nandhascorpio.github.io/greenden-tailwind/
 
 
